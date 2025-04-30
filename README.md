@@ -6,8 +6,8 @@ A simple Java-based Quiz Application that allows users to answer a series of mul
 
 - Console-based interactive quiz
 - Multiple-choice questions
+- Timer for each question
 - Score calculation at the end of the quiz
-- Easy to customize with your own set of questions
 
 ## Technologies Used
 
