@@ -26,5 +26,9 @@ A simple Java-based Quiz Application that allows users to answer a series of mul
    javac QuizApp.java
    java QuizApp
 
+3. **Follow the on screen prompts to answer the question**
+   
+
+
   
 
