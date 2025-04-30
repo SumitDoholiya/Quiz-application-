@@ -22,6 +22,7 @@ A simple Java-based Quiz Application that allows users to answer a series of mul
    git clone https://github.com/SumitDoholiya/Quiz-application-.git
 
 2. **Compile and run the Java file**:
+   ```bash
    javac QuizApp.java
    java QuizApp
 
