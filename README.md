@@ -28,6 +28,19 @@ A simple Java-based Quiz Application that allows users to answer a series of mul
 
 3. **Follow the on screen prompts to answer the question**
    
+## Screenshots
+
+1.
+![image](https://github.com/user-attachments/assets/5cdb2e72-34a1-445d-90ce-b805243313de)
+
+2.
+![image](https://github.com/user-attachments/assets/3b7b3ff1-665b-4281-8a7f-d2508947b594)
+
+3.
+![image](https://github.com/user-attachments/assets/1a391b46-42db-4938-bf48-bb566843c3b0)
+
+
+
 
 
   
